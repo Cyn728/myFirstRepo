@@ -16,3 +16,5 @@ axes[1].set_title("Logarithmic scale (y)");
 plt.show()
 
 # Yingying ni hao
+
+# Haohua ni hao
